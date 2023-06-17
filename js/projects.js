@@ -1,27 +1,27 @@
 var data = [
     {
-        img: "../img/project/1.jpg",
+        img: "./img/project/1.jpg",
         country: "Monterrey - Nuevo León - México",
         place: "Kenai Fjords Park",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "../img/project/2.jpg",
+        img: "./img/project/2.jpg",
         country: "Mérida - Yucátan - México",
         place: "Glowworm Caves",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "../img/project/3.jpg",
+        img: "./img/project/3.jpg",
         country: "Monterrey - Nuevo León - México",
         place: "Pamukkale Castle",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "../img/project/4.jfif",
+        img: "./img/project/4.jfif",
         country: "Mérida - Yucátan - México",
         place: "Pragser Wildsee",
         describe:
