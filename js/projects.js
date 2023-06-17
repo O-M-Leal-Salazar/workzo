@@ -1,41 +1,41 @@
 var data = [
     {
-        img: "./img/project/1.jpg",
+        img: "./img/project-section/1.jpg",
         country: "Monterrey - Nuevo León - México",
         place: "Kenai Fjords Park",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "./img/project/2.jpg",
+        img: "./img/project-section/2.jpg",
         country: "Mérida - Yucátan - México",
         place: "Glowworm Caves",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "./img/project/3.jpg",
+        img: "./img/project-section/3.jpg",
         country: "Monterrey - Nuevo León - México",
         place: "Pamukkale Castle",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "./img/project/4.jfif",
+        img: "./img/project-section/4.jfif",
         country: "Mérida - Yucátan - México",
         place: "Pragser Wildsee",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "../img/project/5.jfif",
+        img: "../img/project-section/5.jfif",
         country: "Monterrey - Nuevo León - México",
         place: "Kumamoto Castle",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "../img/project/6.jfif",
+        img: "../img/project-section/6.jfif",
         country: "Mérida - Yucátan - México",
         place: "Sepulveda Dam",
         describe:
