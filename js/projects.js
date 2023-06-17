@@ -28,14 +28,14 @@ var data = [
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "../img/project-section/5.jfif",
+        img: "../img/project-section/1.jpg",
         country: "Monterrey - Nuevo León - México",
         place: "Kumamoto Castle",
         describe:
             "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, expedita reprehenderit!",
     },
     {
-        img: "../img/project-section/6.jfif",
+        img: "../img/project-section/2.jpg",
         country: "Mérida - Yucátan - México",
         place: "Sepulveda Dam",
         describe:
