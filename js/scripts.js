@@ -261,7 +261,7 @@
     -------------------------------------------------------*/
     $('.statistic').appear(function() {
         $('.timer').countTo({
-            speed: 4000,
+            speed: 1000,
             refreshInterval: 60,
             formatter: function (value, options) {
                 return value.toFixed(options.decimals);
