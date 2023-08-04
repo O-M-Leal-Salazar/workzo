@@ -269,6 +269,20 @@ p {
   }
 }
 
+@media only screen and (max-width: 767px) {
+  .section-text-one {
+    font-size: 12px !important;
+  }
+
+  .section-text-two {
+    font-size: 10px !important;
+  }
+
+  .btn-see-more {
+    font-size: 6px !important;
+  }
+}
+
 @media (max-width: 991px) {
   .navbar-header {
     float: none;
